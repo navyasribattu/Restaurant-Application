@@ -1,6 +1,5 @@
 # Restaurant-Application
 
-Here is your **README.md** file content for the **Restaurant Application | Python** project (without images):
 
 ---
 
